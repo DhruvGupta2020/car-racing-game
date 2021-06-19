@@ -27,6 +27,7 @@ function setup(){
   game = new Game();
   game.getState();
   game.start();
+  console.log("checking Github Commands")
 }
 
 
